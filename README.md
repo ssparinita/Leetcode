@@ -1,5 +1,3 @@
-# Leetcode
-
 # LeetCode Profile 📊
 
 **Username:** itsparinita
